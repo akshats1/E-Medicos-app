@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">E-Medicos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_medicine_search">MedicineSearchActivity</string>
+    <string name="title_activity_admin_menu">AdminMenuActivity</string>
+    <string name="title_activity_user_menu">UserMenuActivity</string>
+    <string name="title_activity_insert_medicine">InsertMedicineActivity</string>
+    <string name="title_activity_insert_equipment">InsertEquipmentActivity</string>
+    <string name="title_activity_update">UpdateActivity</string>
+    <string name="title_activity_equipment_search">EquipmentSearchActivity</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_buy_medicine">BuyMedicineActivity</string>
+    <string name="title_activity_buy_equipment">BuyEquipmentActivity</string>
+    <string name="title_activity_buy">BuyActivity</string>
+    <string name="title_activity_generated_bill">GeneratedBillActivity</string>
+    <string name="title_activity_update_medicine">UpdateMedicineActivity</string>
+    <string name="title_activity_update_equipment">UpdateEquipmentActivity</string>
+    <string name="title_activity_delete_user">DeleteUserActivity</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+</resources>
